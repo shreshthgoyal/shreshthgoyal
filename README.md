@@ -5,7 +5,7 @@ I'm an university student at Indian Institute of Information Technology and Mana
 - 🌱 I’m currently learning ReactJS and exploring Data Structures and Algorithm.
 - 🔭 I’m currently working on furnishing my skills.
 - 😀 I like to code, read, and draw in my free time.
-- 👨‍💼 You can find my Resume [here](https://drive.google.com/file/d/1U5gxm9SgwroS2juUtHYc7nYl0cdbIXtc/view?usp=sharing)
+- 👨‍💼 You can find my Resume [here](https://drive.google.com/file/d/146_pH459T5EDDjhx0ZoGelXZn-af9a7U/view?usp=sharing)
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
 #### 🎧 Listening to
