@@ -3,7 +3,6 @@
 I'm an university student at Indian Institute of Information Technology and Management, Gwalior who lives in India. I am melophile who finds coding fun. I enjoy programming in C++ and Javascript because they challenge me more. I love it when I can finally solve a difficult problem.
 
 - 🌱 I’m currently learning ReactJS and exploring Data Structures and Algorithm.
-- 🔭 I’m currently working on furnishing my skills.
 - 😀 I like to code, read, and draw in my free time.
 - 👨‍💼 You can find my Resume [here](https://drive.google.com/file/d/146_pH459T5EDDjhx0ZoGelXZn-af9a7U/view?usp=sharing)
 - ⚡ Fun fact: My first line of code was not "Hello World!"
