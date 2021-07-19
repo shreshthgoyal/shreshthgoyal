@@ -7,8 +7,9 @@ I'm an university student at Indian Institute of Information Technology and Mana
 - 👨‍💼 You can find my Resume [here](https://drive.google.com/file/d/146_pH459T5EDDjhx0ZoGelXZn-af9a7U/view?usp=sharing)
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
+![](https://komarev.com/ghpvc/?username=shreshthgoyal&color=red)
+
 #### 🎧 Listening to
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=shreshthgoyal&theme=buefyld&show_icons=true)](https://github.com/shreshthgoyal/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=shreshthgoyal&color=red)
