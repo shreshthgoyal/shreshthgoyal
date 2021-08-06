@@ -4,7 +4,7 @@ I'm an university student at Indian Institute of Information Technology and Mana
 
 - 🌱 I’m currently learning ReactJS and exploring Data Structures and Algorithm.
 - 😀 I like to code, read, and draw in my free time.
-- 👨‍💼 You can find my Resume [here](https://drive.google.com/file/d/146_pH459T5EDDjhx0ZoGelXZn-af9a7U/view?usp=sharing)
+- 👨‍💼 You can find my Resume [here](https://drive.google.com/file/d/1dRpbq2gPcTF-5qY5hc14L9eM1SWslggV/view?usp=sharing)
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
 ![](https://komarev.com/ghpvc/?username=shreshthgoyal&color=red)
