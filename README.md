@@ -18,8 +18,7 @@ I'm an university student at Indian Institute of Information Technology and Mana
 <p align="center">
   <a href="https://github.com/shreshthgoyal">
     <img height="150" width="175" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
-    <img align="center" src="
-https://github-readme-streak-stats.herokuapp.com?user=shreshthgoyal&theme=dark&hide_border=true&background=000000"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreshthgoyal&theme=dark&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/right.png">
   </a>
 </p>
