@@ -16,7 +16,7 @@ I'm an university student at Indian Institute of Information Technology and Mana
 <br>
 
 <p align="center">
-  <a href="https://github.com/PulkitSinghDev">
+  <a href="https://github.com/shreshthgoyal">
     <img height="150" width="175" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
     <img align="center" src="
 https://github-readme-streak-stats.herokuapp.com?user=shreshthgoyal&theme=dark&hide_border=true&background=000000"/>
