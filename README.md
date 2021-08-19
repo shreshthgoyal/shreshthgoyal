@@ -39,7 +39,4 @@ I'm an university student at Indian Institute of Information Technology and Mana
 </details>
 <br>
 
-#### 🎧 Vibing to
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-
 ![](https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/footer.png)
