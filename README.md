@@ -5,7 +5,7 @@
 
 I'm an university student at Indian Institute of Information Technology and Management, Gwalior who lives in India. I am melophile who finds coding fun. I enjoy programming in C++ and Javascript because they challenge me more. I love it when I can finally solve a difficult problem.
 
-- 🌱 I’m currently learning ReactJS and exploring Data Structures and Algorithm.
+- 🌱 I’m currently learning Go and exploring Data Structures and Algorithm.
 - 😄 Pronouns: he/his/him
 - 😀 I like to code, read, and draw in my free time.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
