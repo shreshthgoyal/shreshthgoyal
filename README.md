@@ -1,6 +1,5 @@
 
 <h1 align="center">  <a target="_blank">
-    <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Earth.gif" width="24px" style="max-width:100%;">
   </a> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Shreshth</h1>
 
 I'm an university student at Indian Institute of Information Technology and Management, Gwalior who lives in India. I am melophile who finds coding fun. I enjoy programming in C++ and Javascript because they challenge me more. I love it when I can finally solve a difficult problem.
