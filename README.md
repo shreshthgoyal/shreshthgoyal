@@ -1,4 +1,4 @@
-![Shreshth Goyal](https://pbs.twimg.com/profile_banners/1363801851326386178/1628065570/1500x500)
+
 <h1 align="center">  <a target="_blank">
     <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Earth.gif" width="24px" style="max-width:100%;">
   </a> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Shreshth</h1>
@@ -36,6 +36,4 @@ I'm an university student at Indian Institute of Information Technology and Mana
 </a>
 </p>
 </details>
-<br>
 
-![](https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/footer.png)
