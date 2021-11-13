@@ -6,7 +6,7 @@ I'm an university student at Indian Institute of Information Technology and Mana
 
 - 🌱 I’m currently learning Go and exploring Data Structures and Algorithm.
 - 😄 Pronouns: he/his/him
-- 😀 I like to code, read, and draw in my free time.
+- ✒ Check out my blogs [here](https://dev.to/shreshthgoyal).
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
 ![](https://komarev.com/ghpvc/?username=shreshthgoyal&color=red)
