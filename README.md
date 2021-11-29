@@ -1,4 +1,7 @@
-**`Hello there 👋🏾  welcome to my Github! I'm an Assiduous Developer, Cloud Enthusiast and a Melophile. ~~Breakpoints and debuggers~~ *console.log("here")* is the most powerful debugging tool Dev community has given us. ~~(after stackoverflow obv)~~`** 
+
+Hello there 👋🏾 welcome to my Github! I'm an Assiduous Developer, Cloud Enthusiast and a Melophile. ~~Breakpoints and debuggers~~
+*console.log("here")* is the most powerful debugging tool Dev community has given us. ~~(after stackoverflow obv)~~
+
 <p align="center">
   <img width="250" src="https://media4.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif?cid=ecf05e47zj0kmpjyqymbz9rl4aibxgmkowljs5rxcqlav3hm&rid=giphy.gif&ct=s">
   <img width="90" src="https://media1.giphy.com/media/SGVGR33dqDMtF0Cwz1/giphy.gif?cid=ecf05e47zj0kmpjyqymbz9rl4aibxgmkowljs5rxcqlav3hm&rid=giphy.gif&ct=s" align="right">
@@ -6,7 +9,7 @@
 
 
 <p align="center">
-<a href= "https://dev.to/shreshthgoyal"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://dev.to/shreshthgoyal"><img src="https://img.icons8.com/windows/32/fffff/dev.png"/></a>
 <a href= "https://www.linkedin.com/in/shreshthg30/"><img src="https://img.icons8.com/material-outlined/32/000000/linkedin.png"/></a>
 <a href= "https://www.instagram.com/i_shreshth/"><img src="https://img.icons8.com/material-outlined/32/000000/instagram.png"/></a>
 </p>
