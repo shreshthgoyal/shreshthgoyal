@@ -1,4 +1,4 @@
-<samp> Hello there 👋🏾  welcome to my Github! I'm an Assiduous Developer, Cloud Enthusiast and a Melophile. ~~Breakpoints and debuggers~~ *console.log("here")* is the most powerful debugging tool Dev community has given us. ~~(after stackoverflow obv)~~ </samp>
+**`Hello there 👋🏾  welcome to my Github! I'm an Assiduous Developer, Cloud Enthusiast and a Melophile. ~~Breakpoints and debuggers~~ *console.log("here")* is the most powerful debugging tool Dev community has given us. ~~(after stackoverflow obv)~~`** 
 <p align="center">
   <img width="250" src="https://media4.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif?cid=ecf05e47zj0kmpjyqymbz9rl4aibxgmkowljs5rxcqlav3hm&rid=giphy.gif&ct=s">
   <img width="90" src="https://media1.giphy.com/media/SGVGR33dqDMtF0Cwz1/giphy.gif?cid=ecf05e47zj0kmpjyqymbz9rl4aibxgmkowljs5rxcqlav3hm&rid=giphy.gif&ct=s" align="right">
