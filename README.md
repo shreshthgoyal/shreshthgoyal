@@ -13,22 +13,6 @@ Hello there 👋🏾 welcome to my Github! I'm an Assiduous Developer, Cloud Ent
 <a href= "https://www.linkedin.com/in/shreshthg30/"><img src="https://img.icons8.com/ios/50/ffffff/linkedin.png"/></a>
 <a href= "https://www.instagram.com/i_shreshth/"><img src="https://img.icons8.com/ios/50/ffffff/instagram-new.png"/></a>
 </p>
-
-<details close="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
-  <strong>Github Stats : </strong>
-</summary>
-<br>
-  
-<p align="center">
-<a href="https://github.com/shreshthgoyal">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=shreshthgoyal&show_icons=true&theme=tokyonight" />
-  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreshthgoyal&count_private=true&theme=tokyonight" />
-</a>
-</p>
-</details>
-
 <p align="center"><samp>
 Check out my repos ⬇️  
   </samp>
