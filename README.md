@@ -9,9 +9,9 @@ Hello there 👋🏾 welcome to my Github! I'm an Assiduous Developer, Cloud Ent
 
 
 <p align="center">
-<a href= "https://dev.to/shreshthgoyal"><img src="https://img.icons8.com/ios/50/000000/devpost.png"/></a>
-<a href= "https://www.linkedin.com/in/shreshthg30/"><img src="https://img.icons8.com/ios/50/000000/linkedin.png"/></a>
-<a href= "https://www.instagram.com/i_shreshth/"><img src="https://img.icons8.com/ios/50/000000/instagram-new.png"/></a>
+<a href= "https://dev.to/shreshthgoyal"><img src="https://img.icons8.com/ios/50/ffffff/devpost.png"/></a>
+<a href= "https://www.linkedin.com/in/shreshthg30/"><img src="https://img.icons8.com/ios/50/ffffff/linkedin.png"/></a>
+<a href= "https://www.instagram.com/i_shreshth/"><img src="https://img.icons8.com/ios/50/ffffff/instagram-new.png"/></a>
 </p>
 
 <details close="">
