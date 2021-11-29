@@ -1,12 +1,15 @@
 
-Hello there 👋🏾 welcome to my Github! I'm an Assiduous Developer, Cloud Enthusiast and a Melophile. ~~Breakpoints and debuggers~~
-*console.log("here")* is the most powerful debugging tool Dev community has given us. ~~(after stackoverflow obv)~~
+<h4 align="center"><samp>Hello there 👋🏾 welcome to my Github! I'm an Assiduous Developer, Cloud Enthusiast and a Melophile. I like to learn new stuff and blog it. Check out my most recent blog <a href= "https://dev.to/shreshthgoyal/user-authorization-in-nodejs-using-postgresql-4gl"> here </a> </samp></h4>
+
+> I was a Top Author on dev.to community in 2021.
 
 <p align="center">
-  <img width="250" src="https://media4.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif?cid=ecf05e47zj0kmpjyqymbz9rl4aibxgmkowljs5rxcqlav3hm&rid=giphy.gif&ct=s">
-  <img width="90" src="https://media1.giphy.com/media/SGVGR33dqDMtF0Cwz1/giphy.gif?cid=ecf05e47zj0kmpjyqymbz9rl4aibxgmkowljs5rxcqlav3hm&rid=giphy.gif&ct=s" align="right">
+  <img width="250" src="https://media4.giphy.com/media/jrzHNJGWZmnIeAlDGW/giphy.gif?cid=ecf05e47b66uwbwbg89qjo9gt9enccowrj81mqdmoujoc9t5&rid=giphy.gif&ct=s">
 </p>
 
+> ~~Breakpoints and debuggers~~ *console.log("here")* is the most
+> powerful debugging tool Dev community has given us. ~~(after
+> stackoverflow obv)~~
 
 <p align="center">
 <a href= "https://dev.to/shreshthgoyal"><img src="https://img.icons8.com/ios/50/ffffff/devpost.png"/></a>
