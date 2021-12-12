@@ -7,7 +7,7 @@
   <img width="250" src="https://media4.giphy.com/media/jrzHNJGWZmnIeAlDGW/giphy.gif?cid=ecf05e47b66uwbwbg89qjo9gt9enccowrj81mqdmoujoc9t5&rid=giphy.gif&ct=s">
 </p>
 
-> Breakpoints and debuggers ?? Naaah.
+> Breakpoints and debuggers ?? Naaah <br>
 > *console.log("here")* 
 
 <p align="center">
