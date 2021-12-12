@@ -7,9 +7,8 @@
   <img width="250" src="https://media4.giphy.com/media/jrzHNJGWZmnIeAlDGW/giphy.gif?cid=ecf05e47b66uwbwbg89qjo9gt9enccowrj81mqdmoujoc9t5&rid=giphy.gif&ct=s">
 </p>
 
-> ~~Breakpoints and debuggers~~ *console.log("here")* is the most
-> powerful debugging tool Dev community has given us. ~~(after
-> stackoverflow obv)~~
+> Breakpoints and debuggers ?? Naaah.
+> *console.log("here")* 
 
 <p align="center">
 <a href= "https://dev.to/shreshthgoyal"><img src="https://img.icons8.com/ios/50/ffffff/devpost.png"/></a>
