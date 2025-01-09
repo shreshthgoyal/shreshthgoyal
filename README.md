@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Shreshth, a tech enthusiast trying to survive Information Technology at IIIT Gwalior. When I'm not debugging code that worked perfectly fine 5 minutes ago, you'll find me building stuff with React or helping fellow students avoid the mistakes I've already made (spoiler: they make them anyway).
+I'm Shreshth, a tech enthusiast trying to survive in Bengaluru. When I'm not debugging code that worked perfectly fine 5 minutes ago, you'll find me building stuff with React or helping fellow students avoid the mistakes I've already made (spoiler: they make them anyway).
 
 ## What keeps me busy 🎯
 - Building web apps that occasionally work as intended
