@@ -2,8 +2,6 @@
 
 Software Engineer at [@curefit](https://github.com/curefit) · Bengaluru
 
-Full-stack with React & Node.js. 500+ competitive programming problems. Occasional hackathon participant.
-
 ---
 
 **Links**
